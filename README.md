@@ -1,5 +1,5 @@
 # UDCD_MICCAI
-For the article accepted at MICCAI2024
+For the article accepted at MICCAI2024. 
 
 ## Installation
 ### Necessary Dependencies
@@ -24,7 +24,8 @@ python3 train.py
 ## Contact
 
 please contact saurabh_2021cs30@iitp.ac.in for any discrepancy.
-
+## Note
+The code provided is for basic implementation using generic way to introduce uncertainty aware contrastive learning and for one dataset. For the full implementation and settings, feel free to mail. 
 
 ## Authors:
 

@@ -1,5 +1,6 @@
 # UDCD_MICCAI
 For the article accepted at MICCAI2024. 
+Here is the link to the [paper](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_13).
 
 ## Installation
 ### Necessary Dependencies
